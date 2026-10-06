@@ -8,14 +8,14 @@
   - [do details](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
-<h2>📺 CCNA and Networking Project</h2>
+<h2>🌐 CCNA and Networking Project</h2>
 
 - <b>Entra ID</b>
   - [Praciting Active directoty](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>other</b>
   - [do details](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>📺 SOC Analyst Project</h2>
+<h2>🔐 SOC Analyst Project</h2>
 
   - [Praciting Active directoty](https://github.com/joshmadakor1/Algorithms-Practice)
 
@@ -24,7 +24,7 @@
 - <b>other</b>
   - [do details](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2> 🤳 Certifications:</h2>
+<h2> 💪 Certifications:</h2>
 
   - [CCNA](https://github.com/joshmadakor1/Algorithms-Practice)
 
