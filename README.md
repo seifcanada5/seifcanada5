@@ -2,8 +2,8 @@
 
 <h2>👨‍💻  Azure And IT support Project:</h2>
 
-- <b>Entra ID</b>
-  - [Praciting Active directoty](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Vlan Creation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>other</b>
   - [do details](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
